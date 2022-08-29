@@ -1,0 +1,9 @@
+body{
+    font-family: Roboto, 'Courier New', Courier, monospace;
+}
+
+.hero,
+.footer{
+    background-color: #1f2937;
+}
+
